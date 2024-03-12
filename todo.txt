@@ -1,0 +1,4 @@
+I have to do for the gui:
+- add vote
+- fix edit
+ggz
